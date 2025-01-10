@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Arcan42
-- 👀 I’m interested in potato
-- 🌱 I’m currently learning living as human
-- 💞️ I’m looking to collaborate on human spicies
+- 👀 I’m interested in learning new kind of things
+- 🌱 I’m currently learning HTML
+- 💞️ I’m looking to collaborate on html projects
 - 📫 How to reach me 
 - ig @usual_homie
 
